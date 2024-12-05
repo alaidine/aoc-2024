@@ -72,7 +72,7 @@ fun main() {
         return result;
     }
 
-    // Or read a large test input from the `src/Day02_test.txt` file:
+    // Or read a large test input from the `src/Day03_test.txt` file:
     val testInput = readInput("Day03_test")
     check(part1(testInput) == 161)
     check(part2(testInput) == 48)
